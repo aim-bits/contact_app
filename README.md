@@ -1,16 +1,5 @@
 # contact_app
+- made with flutter.
+An app that displays a list of contact from a json file
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![contact_app – contact dart  contact_app  17_10_2022 03_26_52](https://user-images.githubusercontent.com/62037109/196076341-154d8520-c853-4171-b400-74c065d4797d.png)
